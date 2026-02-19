@@ -10,4 +10,4 @@ This project demonstrates the configuration and implementation of Wide Area Netw
 
 Network Topology
 
-![image](https://github.com/username/repo-name/assets/xxxx)
+![image](https://github.com/ChaitanyaKP08/Network-Simulations/blob/main/WAN%20Connectivity/WAN%20Connectivity.PNG)
